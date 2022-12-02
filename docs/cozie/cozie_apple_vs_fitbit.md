@@ -3,10 +3,14 @@ sidebar_position: 1
 ---
 
 # Apple vs Fitbit
-- fitbit image:
 
+Cozie is available for the Apple Watch and for select Fitbit devices. Watch-based surveys are availble on both frameworks. However, the surrounding feature set differs between the two frameworks and might also depend on the exact devices used.
 
-- apple image: 
+## Look
+
+<img src="/img/cozie_fitbit_flow.png" alt="Cozie Fitbit Flow" style={{height:200+'px'}}/> 
+
+<img src="/img/cozie_apple_flow.png" alt="Cozie Apple Flow" style={{height:200+'px'}}/> 
 
 ## Feature set comparison
 
