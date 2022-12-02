@@ -11,6 +11,7 @@ const FeatureList = [
         Cozie has been deploy for building science research. 
       </>
     ),
+    target: 'https://www.cozie-apple.app'
   },
   {
     title: 'Cozie for Apple',
@@ -20,6 +21,7 @@ const FeatureList = [
         Cozie is available as an app on the Apple Watch.
       </>
     ),
+    target: '/docs/cozie/intro_cozie'
   },
   {
     title: 'Cozie for Fitbit',
@@ -29,19 +31,23 @@ const FeatureList = [
         Cozie is available as a clockface app on select Fitbit devices.
       </>
     ),
+    target: 'https://www.cozie-fitbit.app'
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, target}) {
   return (
     <div className={clsx('col col--4')}>
+      <a href={target}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+        
       </div>
+      </a>
     </div>
   );
 }
