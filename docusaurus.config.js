@@ -91,6 +91,10 @@ const config = {
                 label: 'Cozie for Fitbit',
                 href: 'https://www.cozie-fitbit.app',
               },
+              {
+                label: 'About us',
+                href: '/docs/about_us',
+              },
             ],
           },
         ],
