@@ -10,6 +10,11 @@ sidebar_position: 1
 
   - https://doi.org/10.1145/3563357.3566167 (not yet online)
 -->
+  - **Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables.**
+  Tartarini, F., Schiavon, S., Quintana, M., & Miller, C. <br/>
+  (2022).  Indoor Air, 32(11), e13160. <br/>
+  https://doi.org/10.1111/ina.13160 <br/>
+
   - **Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection**  <br/> 
   Tartarini, F., & Miller, C. & Schiavon, S.<br/>
   http://dx.doi.org/10.48550/arXiv.2210.13977
