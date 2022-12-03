@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 # What is Cozie
 Cozie is an App for for human comfort data collection. It is extremely useful for conducting right-here-right-now surveys in buildings. It can, however, be used to ask questions in other settings, allowing people to provide feedback in real-time.
 
@@ -11,7 +13,7 @@ To find out more about Cozie on the different platforms visit the respective web
 - https://www.cozie-fitbit.app
 - https://www.cozie-apple.app 
 
-Alternatively, you contact us at researcher@budslab.org
+Alternatively, you contact us at cozie.app@gmail.com
 
 
 # Publications

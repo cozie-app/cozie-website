@@ -13,6 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
+  customFields: {
+    contactMail: 'cozie.app@gmail.com',
+  },
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -94,6 +97,10 @@ const config = {
               {
                 label: 'About us',
                 href: '/docs/about_us',
+              },
+              {
+                label: 'Mail us',
+                href: 'mailto:cozie.app@gmail.com'
               },
             ],
           },
