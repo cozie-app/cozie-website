@@ -8,9 +8,9 @@ Cozie is available for the Apple Watch and for select Fitbit devices. Watch-base
 
 ## Look
 
-<img src="/img/cozie_fitbit_flow.png" alt="Cozie Fitbit Flow" style={{height:200+'px'}}/> 
+<img src="/img/cozie_fitbit_flow.png" alt="Cozie Fitbit Flow" style={{width:800+'px'}}/> 
 
-<img src="/img/cozie_apple_flow.png" alt="Cozie Apple Flow" style={{height:200+'px'}}/> 
+<img src="/img/cozie_apple_flow.png" alt="Cozie Apple Flow" style={{width:800+'px'}}/> 
 
 ## Feature set comparison
 
