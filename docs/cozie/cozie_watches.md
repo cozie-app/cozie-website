@@ -6,12 +6,15 @@ sidebar_position: 1
 
 ## Apple Watch
 Cozie should work on all Apple Watches. However, we have only tested the following devices:
- - Apple Watch Series 6 (GPS, no cellular, no longer availble)
- - Apple Watch Series 7 (GPS, no cellular, no longer availble)
- - Apple Watch Series 8 (GPS, no cellular)
+
+| Watch               | Tested                        | Availability   |
+|---------------------|-------------------------------|----------------|
+|Apple Watch Series 6 | Model: 44mm, GPS, no cellular | no longer sold |
+|Apple Watch Series 7 | Model: 45mm, GPS, no cellular | no longer sold |
+|Apple Watch Series 8 | Model: 45mm, GPS, no cellular | [available](https://www.apple.com/sg/apple-watch-series-8/) |
 
 Please let us know if you have used Cozie successfully on other Apple Watches.
-Please, note that the watch screen size can influence how the content is rendered, i.e., strings might be broken up differently on new lines depending on the watch screen size.
+Please, note that the watch screen size can influence how the content is rendered, i.e., strings might be broken up differently to multiple lines depending on the watch screen size.
 
 
 ## Fitbit
