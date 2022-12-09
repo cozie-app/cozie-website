@@ -63,7 +63,8 @@ const config = {
         title: 'Cozie',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo_cozie_round.png',
+          //src: 'img/logo_cozie_round.png',
+          src: 'img/favicon.ico',
         },
         items: [
           {
