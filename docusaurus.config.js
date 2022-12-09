@@ -100,7 +100,7 @@ const config = {
                 href: '/docs/about_us',
               },
               {
-                label: 'Mail us',
+                label: 'Contact us',
                 href: 'mailto:cozie.app@gmail.com'
               },
             ],
