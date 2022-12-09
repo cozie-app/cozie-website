@@ -33,10 +33,10 @@ sidebar_position: 1
   Tartarini, F., & Miller, C. & Schiavon, S.<br/>
   http://dx.doi.org/10.48550/arXiv.2210.13977
 
-  - **Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables.** <br/>
+  - **Personal comfort models based on a six‐month experiment using environmental parameters and data from wearables.** <br/>
   Tartarini, F., Schiavon, S., Quintana, M., & Miller, C.<br/>
-   (2022).  Indoor Air, 32(11), e13160.  <br/>
-    https://doi.org/10.1111/ina.13160
+  (2022).  Indoor Air, 32(11), e13160.  <br/>
+  https://doi.org/10.1111/ina.13160
 
   - **Cohort comfort models - Using occupant’s similarity to predict personal thermal preference with less data.**  <br/> 
     Quintana, M., Schiavon, S., Tartarini, F., Kim, J., & Miller, C. <br/> 
