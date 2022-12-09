@@ -21,7 +21,7 @@ const FeatureList = [
         Cozie is available as an app on the Apple Watch.
       </>
     ),
-    target: '/docs/cozie/intro_cozie'
+    target: 'https://www.cozie-apple.app'
   },
   {
     title: 'Cozie for Fitbit',
