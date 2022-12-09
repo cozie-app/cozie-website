@@ -5,17 +5,31 @@ sidebar_position: 1
 # Papers with Cozie 
 (and by the makers of Cozie)
 
-<!-- Not yet published
-  - [Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants](https://www.dropbox.com/s/ixgptip7vz6x54g/BuildSys2022-FoWSB-JITAI_for_Buildings.pdf?dl=0)
+ Not yet published
 
-  - https://doi.org/10.1145/3563357.3566167 (not yet online)
+  
+<!-- Template:
+  - **** <br/>
+  <br/>
+  <br/>
+  <br/>
 -->
-  - **Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables.**
+  - **Cohort comfort models - Using occupant’s similarity to predict personal thermal preference with less data** <br/>
+  Matias Quintana, Stefano Schiavon, Federico Tartarini, Joyce Kim, Clayton Miller<br/>
+  (2022). Building and Environment, 109685.<br/>
+  https://www.sciencedirect.com/science/article/pii/S0360132322009155<br/>
+
+  - **Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants** <br/>
+  Clayton Miller, Yun Xuan Chua, Mario Frei, Matias Quintana <br/>
+  (2022). BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation<br/>
+  https://dl.acm.org/doi/10.1145/3563357.3566135 <br/>
+
+  - **Personal comfort models based on a 6‐month experiment using environmental parameters and data from wearables.** <br/> 
   Tartarini, F., Schiavon, S., Quintana, M., & Miller, C. <br/>
   (2022).  Indoor Air, 32(11), e13160. <br/>
   https://doi.org/10.1111/ina.13160 <br/>
 
-  - **Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection**  <br/> 
+  - **Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection** <br/> 
   Tartarini, F., & Miller, C. & Schiavon, S.<br/>
   http://dx.doi.org/10.48550/arXiv.2210.13977
 
