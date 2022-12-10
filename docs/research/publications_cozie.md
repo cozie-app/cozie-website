@@ -5,8 +5,6 @@ sidebar_position: 1
 # Papers with Cozie 
 (and by the makers of Cozie)
 
- Not yet published
-
   
 <!-- Template:
   - **** <br/>
