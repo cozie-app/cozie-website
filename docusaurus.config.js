@@ -112,6 +112,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [{name: 'keywords', content: 'Cozie, Apple, Apple Watch, Fitbit, smartwatch, environmental momentary assessment, EMA, just in time adaptive intervention, just-in-time-adaptive-intervention, JITAI, Series, BUDS Lab, research, survey, comfort, heart rate, gps, location'}],
     }),
 };
 
