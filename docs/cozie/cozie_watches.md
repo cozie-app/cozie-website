@@ -4,6 +4,8 @@ title: Watches for Cozie
 sidebar_label: Watches for Cozie
 ---
 
+Cozie is currently available on Apple Watches and select Fitbit devices. Below, you will find an overview of all device compatible with Cozie.
+
 ## Apple Watch
 Cozie should work on all Apple Watches. However, we have only tested the following devices:
 

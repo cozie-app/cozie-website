@@ -6,7 +6,7 @@ sidebar_label: What is Cozie?
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-Cozie is an App for for human comfort data collection. It is extremely useful for conducting right-here-right-now surveys in buildings. It can, however, be used to ask questions in other settings, allowing people to provide feedback in real-time.
+Cozie is an smartwatch application for human comfort data collection. It prompts users to respond to quick right-here-right-now surveys on smartwatches. Each survey response is tagged with the location of the participant. Cozie is also able to collect additional information, such as heart rate.
 
 Cozie is available for the Apple Watch and select Fitbit devices.
 
@@ -19,10 +19,10 @@ Alternatively, you contact us at cozie.app@gmail.com
 
 # Publications
 Below, is alist of publications about Cozie or research involving Cozie, as well as research relevant to Cozie
- - [Research using Cozie by the creators of Cozie](publications_cozie)
- - [Reviews including Cozie](publications_cozie_reviews)
+ - [Research using Cozie](../research/publications-cozie)
+ - [Reviews including Cozie](../research/publications-cozie-reviews)
+ - [Reading recommendation for Environmental Momentary Assessment (EMA)](../research/publications-ema)
+ - [Reading recommendation for Just-in-Time-Interventions (JITAI)](../research/publications-jitai)
 
-[//]: # "- Reading recommendation for Environmental Momentary Assessment (EMA))"
-[//]: # "- Reading recommendation for Just-in-Time-Interventions (JITAI))"
-
+[//]: # ""
 
