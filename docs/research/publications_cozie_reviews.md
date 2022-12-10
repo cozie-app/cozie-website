@@ -1,8 +1,10 @@
 ---
-sidebar_position: 1
+id: publications-cozie-reviews
+title: Review papers including Cozie
+sidebar_label: Review papers including Cozie
 ---
 
-# Review papers including Cozie
+The publications listed below are not necessarily authored by the makers of Cozie. However, Cozie is mentioned in these publications.
 
 - **A Review of the Use of Wearables in Indoor Environmental Quality Studies and an Evaluation of Data Accessibility from a Wearable Device.** <br/>
 Abboushi, B., Safranek, S., Rodriguez-Feo Bermudez, E., Pratoomratana, S., Chen, Y., Poplawski, M., & Davis, R.  <br/>

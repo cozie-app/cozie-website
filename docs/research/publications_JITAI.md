@@ -1,14 +1,18 @@
 ---
-sidebar_position: 1
+id: publications-jitai
+title: Papers on the topic of Just-in-Time Adaptive Interventions (JITAI)
+sidebar_label: Papers about JITAI
 ---
 
-# Papers on the topic of Just-in-Time Adaptive Interventions (JITAI)
 <!-- Template:
   - **** <br/>
   <br/>
   <br/>
   <br/>
 -->
+
+The publications listed below are authored by the makers of Cozie. The list below might serve as a good starting point for starting your reading about just-in-time adaptive interventions (JITAI).
+
   - **Return of the JITAI: applying a just-in-time adaptive intervention framework to the development of m-health solutions for addictive behaviors** <br/>
   Goldstein, S. P., Evans, B. C., Flack, D., Juarascio, A., Manasse, S., Zhang, F., & Forman, E. M. <br/>
   (2017) International journal of behavioral medicine, 24(5), 673-682.<br/>

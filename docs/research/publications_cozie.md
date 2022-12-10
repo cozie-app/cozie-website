@@ -1,8 +1,9 @@
 ---
-sidebar_position: 1
+id: publications-cozie
+title: Papers with Cozie 
+sidebar_label: Papers with Cozie 
 ---
 
-# Papers with Cozie 
 (and by the makers of Cozie)
 
   
@@ -37,14 +38,14 @@ sidebar_position: 1
   https://doi.org/10.1111/ina.13160
 
   - **Cohort comfort models - Using occupant’s similarity to predict personal thermal preference with less data.**  <br/> 
-    Quintana, M., Schiavon, S., Tartarini, F., Kim, J., & Miller, C. <br/> 
-    (2022). Building and Environment, 109685.  <br/>
-    https://doi.org/10.1016/j.buildenv.2022.109685
+  Quintana, M., Schiavon, S., Tartarini, F., Kim, J., & Miller, C. <br/> 
+  (2022). Building and Environment, 109685.  <br/>
+  https://doi.org/10.1016/j.buildenv.2022.109685
 
   - **Targeting occupant feedback using digital twins: Adaptive spatial–temporal thermal preference sampling to optimize personal comfort models.**<br/>
-    Abdelrahman, M. M., & Miller, C. . <br/>
-    (2022) Building and Environment, 218, 109090.  <br/>
-    https://doi.org/10.1016/j.buildenv.2022.109090
+  Abdelrahman, M. M., & Miller, C. . <br/>
+  (2022) Building and Environment, 218, 109090.  <br/>
+  https://doi.org/10.1016/j.buildenv.2022.109090
 
   - **Personal thermal comfort models using digital twins: Preference prediction with BIM-extracted spatial–temporal proximity data from Build2Vec.** <br/>
   Abdelrahman, M. M., Chong, A., & Miller, C.  <br/>
