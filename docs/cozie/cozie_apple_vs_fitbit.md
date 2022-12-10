@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+id: cozie-apple-vs-fitbit
+title: Apple vs. Fitbit
+sidebar_label: Apple vs. Fitbit
 ---
-
-# Apple vs Fitbit
 
 Cozie is available for the Apple Watch and for select Fitbit devices. Watch-based surveys are availble on both frameworks. However, the surrounding feature set differs between the two frameworks and might also depend on the exact devices used.
 

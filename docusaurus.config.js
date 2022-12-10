@@ -69,7 +69,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'cozie/intro_cozie',
+            docId: 'cozie/intro-cozie',
             position: 'left',
             label: 'Research',
           },

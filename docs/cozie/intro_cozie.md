@@ -1,10 +1,11 @@
 ---
-sidebar_position: 1
+id: intro-cozie
+title: What is Cozie?
+sidebar_label: What is Cozie?
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-# What is Cozie
 Cozie is an App for for human comfort data collection. It is extremely useful for conducting right-here-right-now surveys in buildings. It can, however, be used to ask questions in other settings, allowing people to provide feedback in real-time.
 
 Cozie is available for the Apple Watch and select Fitbit devices.

@@ -21,16 +21,16 @@ const sidebars = {
   
   ResearchSidebar: {
     "Cozie": [
-      "cozie/intro_cozie", 
-      "cozie/cozie_apple_vs_fitbit",
-      "cozie/cozie_watches"
+      "cozie/intro-cozie", 
+      "cozie/cozie-apple-vs-fitbit",
+      "cozie/cozie-watches"
     ],
 
     "Publications": [
-      "research/publications_cozie",
-      "research/publications_cozie_reviews",
-      //"research/publications_EMA",
-      //"research/publications_JITAI"
+      "research/publications-cozie",
+      "research/publications-cozie-reviews",
+      "research/publications-ema",
+      "research/publications-jitai"
       ],
   }
 

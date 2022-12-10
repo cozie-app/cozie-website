@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+id: cozie-watches
+title: Watches for Cozie
+sidebar_label: Watches for Cozie
 ---
-
-# Watches
 
 ## Apple Watch
 Cozie should work on all Apple Watches. However, we have only tested the following devices:
