@@ -32,6 +32,11 @@ const sidebars = {
       "research/publications-ema",
       "research/publications-jitai"
       ],
+
+      
+    "About us": [
+      "about_us",
+      ],
   }
 
 };
