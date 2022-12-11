@@ -18,11 +18,11 @@ Alternatively, you contact us at cozie.app@gmail.com
 
 
 # Publications
-Below, is alist of publications about Cozie or research involving Cozie, as well as research relevant to Cozie
+Below, is a list of publications about Cozie or research involving Cozie, as well as research relevant to Cozie
  - [Research using Cozie](../research/publications-cozie)
- - [Reviews including Cozie](../research/publications-cozie-reviews)
- - [Reading recommendation for Environmental Momentary Assessment (EMA)](../research/publications-ema)
- - [Reading recommendation for Just-in-Time-Interventions (JITAI)](../research/publications-jitai)
+ - [Review papers including Cozie](../research/publications-cozie-reviews)
+ - [Reading recommendations for Environmental Momentary Assessment (EMA)](../research/publications-ema)
+ - [Reading recommendations for Just-in-Time-Interventions (JITAI)](../research/publications-jitai)
 
 [//]: # ""
 
