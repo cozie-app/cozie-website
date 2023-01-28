@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cozie.app/blog</id>
+    <title>Cozie Blog</title>
+    <updated>2022-11-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://cozie.app/blog"/>
+    <subtitle>Cozie Blog</subtitle>
+    <icon>https://cozie.app/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Web presence]]></title>
+        <id>web-presence</id>
+        <link href="https://cozie.app/blog/web-presence"/>
+        <updated>2022-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We just cleaned up the web presence of Cozie. There are now three distinct website:]]></summary>
+        <content type="html"><![CDATA[<p>We just cleaned up the web presence of Cozie. There are now three distinct website: </p><ol><li><p><a href="https://www.cozie.app" target="_blank" rel="noopener noreferrer">https://www.cozie.app</a> <br>
+On cozie.app, resrearch using the Cozie framework is featured, and it also links to the websites dedicated to the Cozie frameworks for Apple and Fitbit devices.</p></li><li><p><a href="https://www.cozie-apple.app" target="_blank" rel="noopener noreferrer">https://www.cozie-apple.app</a> <br>
+cozie-apple.app is the home for all things related to Cozie for Apple. It hosts the documentation for Cozie-Apple.</p></li><li><p><a href="https://www.cozie-fitbit.app" target="_blank" rel="noopener noreferrer">https://www.cozie-fitbit.app</a><br>
+cozie-fitbit.app is the home for all things related to Cozie for Fitbit devices. It hosts the documentation for Cozie-Fitbit.</p></li></ol><p>In addition to the websites above there is also the Github organization <a href="https://github.com/cozie-app" target="_blank" rel="noopener noreferrer">https://github.com/cozie-app</a>, which hosts all source code related to Cozie including the websites listed above.</p>]]></content>
+        <author>
+            <name>Mario Frei</name>
+            <uri>https://github.com/mariofrei</uri>
+        </author>
+        <category label="blog" term="blog"/>
+        <category label="cozie" term="cozie"/>
+        <category label="website" term="website"/>
+    </entry>
+</feed>
