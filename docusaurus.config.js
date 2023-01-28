@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cozie',
-  tagline: 'A framework to collect feedback from building occupants in real time',
+  tagline: 'A framework to collect feedback from building occupants in real time.',
   url: 'https://cozie.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
