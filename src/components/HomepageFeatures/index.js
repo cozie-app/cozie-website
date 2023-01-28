@@ -11,7 +11,7 @@ const FeatureList = [
         Cozie has been deploy for building science research. 
       </>
     ),
-    target: 'https://www.cozie-apple.app'
+    target: 'https://cozie.app/docs/cozie/intro-cozie'
   },
   {
     title: 'Cozie for Apple',
