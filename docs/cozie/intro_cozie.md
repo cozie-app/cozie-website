@@ -24,5 +24,15 @@ Below, is a list of publications about Cozie or research involving Cozie, as wel
  - [Reading recommendations for Environmental Momentary Assessment (EMA)](../research/publications-ema)
  - [Reading recommendations for Just-in-Time-Interventions (JITAI)](../research/publications-jitai)
 
+
+# How to cite us
+For Cozie-Apple, please cite us as follows:
+
+[Tartarini, F., Miller, C. and Schiavon, S., 2022. Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection. arXiv preprint arXiv:2210.13977.](https://arxiv.org/abs/2210.13977)
+
+For Cozie-Fitbt, please cite us as follows:
+ 
+[Prageeth Jayathissa, Matias Quintana, Tapeesh Sood and Negin Nazarian, Clayton Miller (2019) Is your clock-face cozie? A smartwatch methodology for the in-situ collection of occupant comfort data](https://iopscience.iop.org/article/10.1088/1742-6596/1343/1/012145)
+
 [//]: # ""
 
