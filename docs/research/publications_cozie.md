@@ -4,7 +4,7 @@ title: Papers with Cozie
 sidebar_label: Papers with Cozie 
 ---
 
-(and by the makers of Cozie)
+The publications listed below are authored by the makers of Cozie. 
 
   
 <!-- Template:
