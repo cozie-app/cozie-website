@@ -13,6 +13,16 @@ The publications listed below are authored by the makers of Cozie.
   <br/>
   <br/>
 -->
+  - **Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces** <br/>
+  Kristi Maisha, Mario Frei, Matias Quintana, Yun Xuan Chua, Rishee Jain, Clayton Miller<br/>
+  arXiv<br/>
+  https://arxiv.org/abs/2307.00789<br/>
+
+  - **Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort** <br/>
+  Pengyuan Liu, Tianhong Zhao, Junjie Luo, Binyu Lei, Mario Frei, Clayton Miller, Filip Biljecki<br/>
+  (2023). Sustainable Cities and Society, 93, 104480<br/>
+  https://www.sciencedirect.com/science/article/abs/pii/S2210670723000914<br/>
+
   - **Cohort comfort models - Using occupant’s similarity to predict personal thermal preference with less data** <br/>
   Matias Quintana, Stefano Schiavon, Federico Tartarini, Joyce Kim, Clayton Miller<br/>
   (2022). Building and Environment, 109685.<br/>
