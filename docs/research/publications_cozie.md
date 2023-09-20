@@ -4,7 +4,7 @@ title: Papers with Cozie
 sidebar_label: Papers with Cozie 
 ---
 
-The publications listed below are authored by the makers of Cozie. 
+The publications listed below use Cozie. Some but not all publications listed below are authored by the makers of Cozie. 
 
   
 <!-- Template:
@@ -13,10 +13,21 @@ The publications listed below are authored by the makers of Cozie.
   <br/>
   <br/>
 -->
+
+  - **Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection** <br/>
+  Federico Tartarini, Mario Frei, Stefano Schiavon, Yun Xuan Chua, Clayton Miller<br/>
+  (2023) arXiv<br/>
+  https://arxiv.org/abs/2210.13977<br/>
+
   - **Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces** <br/>
   Kristi Maisha, Mario Frei, Matias Quintana, Yun Xuan Chua, Rishee Jain, Clayton Miller<br/>
-  arXiv<br/>
+  (2023) arXiv<br/>
   https://arxiv.org/abs/2307.00789<br/>
+
+  - **Investigation of indicators for personal exposure and occupancy in offices by using smart sensors** <br/>
+  Seoyeon Yun, Dusan Licina <br/>
+  (2023). Energy and Buildings, 113539<br/>
+  https://www.sciencedirect.com/science/article/pii/S0378778823007697<br/>
 
   - **Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort** <br/>
   Pengyuan Liu, Tianhong Zhao, Junjie Luo, Binyu Lei, Mario Frei, Clayton Miller, Filip Biljecki<br/>
@@ -62,26 +73,25 @@ The publications listed below are authored by the makers of Cozie.
   (2022).  Building and Environment, 207, 108532. <br/>
   https://doi.org/10.1016/j.buildenv.2021.108532
 
-
   - **Smartwatch-based ecological momentary assessments for occupant wellness and privacy in buildings**<br/>
-    Miller, C., Christensen, R., Leong, J. K., Abdelrahman, M., Tartarini, F., Quintana, M., Müller, M.M., & Frei, M. <br/>
-    (2022). (PDF) Smartwatch-based ecological momentary assessments for occupant wellness and privacy in buildings.  <br/>
-    [ResearchGate](https://www.researchgate.net/profile/Clayton-Miller-4/publication/359889789_Smartwatch-based_ecological_momentary_assessments_for_occupant_wellness_and_privacy_in_buildings/links/6254e5c2d726197cfd508500/Smartwatch-based-ecological-momentary-assessments-for-occupant-wellness-and-privacy-in-buildings.pdf)
+  Miller, C., Christensen, R., Leong, J. K., Abdelrahman, M., Tartarini, F., Quintana, M., Müller, M.M., & Frei, M. <br/>
+  (2022). (PDF) Smartwatch-based ecological momentary assessments for occupant wellness and privacy in buildings.  <br/>
+  [ResearchGate](https://www.researchgate.net/profile/Clayton-Miller-4/publication/359889789_Smartwatch-based_ecological_momentary_assessments_for_occupant_wellness_and_privacy_in_buildings/links/6254e5c2d726197cfd508500/Smartwatch-based-ecological-momentary-assessments-for-occupant-wellness-and-privacy-in-buildings.pdf)
 
   - **The Internet-of-Buildings (IoB)—Digital twin convergence of wearable and IoT data with GIS/BIM."**<br/>
-    Miller, C., Abdelrahman, M., Chong, A., Biljecki, F., Quintana, M., Frei, M., Chew, M. & Wong, D. <br/>
-    (2021, November).  In Journal of Physics: Conference Series (Vol. 2042, No. 1, p. 012041). IOP Publishing. <br/>
-    https://doi.org/10.1088/1742-6596/2042/1/012041
+  Miller, C., Abdelrahman, M., Chong, A., Biljecki, F., Quintana, M., Frei, M., Chew, M. & Wong, D. <br/>
+  (2021, November).  In Journal of Physics: Conference Series (Vol. 2042, No. 1, p. 012041). IOP Publishing. <br/>
+  https://doi.org/10.1088/1742-6596/2042/1/012041
 
  - **Longitudinal personal thermal comfort preference data in the wild.** <br/> 
-   Quintana, M., Abdelrahman, M., Frei, M., Tartarini, F., & Miller, C. <br/> 
-   (2021, November). In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (pp. 556-559).  <br/>
-    https://doi.org/10.1145/3485730.3493693
+  Quintana, M., Abdelrahman, M., Frei, M., Tartarini, F., & Miller, C. <br/> 
+  (2021, November). In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (pp. 556-559).  <br/>
+  https://doi.org/10.1145/3485730.3493693
 
   - **Humans-as-a-Sensor for Buildings - Intensive Longitudinal Indoor Comfort Models.** <br/> 
   Jayathissa P, Quintana M, Abdelrahman M, Miller C. <br/>
   (2020). Buildings, 10(10):174.  <br/>
-    https://doi.org/10.3390/buildings10100174
+  https://doi.org/10.3390/buildings10100174
 
   - **Spacematch: Using environmental preferences to match occupants to suitable activity-based workspaces.** <br/> 
   Sood, T., Janssen, P., & Miller, C. <br/> 
@@ -89,12 +99,12 @@ The publications listed below are authored by the makers of Cozie.
   https://doi.org/10.3389/fbuil.2020.00113
 
   - **Differences in thermal comfort state transitional time among comfort preference groups**<br/>
-   P Sae-Zhang, M Quintana, C Miller <br/>
-   The 16th Conference of the International Societyof Indoor Air Quality & Climate ONLINE<br/>
-   [ResearchGate](https://www.researchgate.net/publication/345806462_Differences_in_thermal_comfort_state_transitional_time_among_comfort_preference_groups)
+  P Sae-Zhang, M Quintana, C Miller <br/>
+  The 16th Conference of the International Societyof Indoor Air Quality & Climate ONLINE<br/>
+  [ResearchGate](https://www.researchgate.net/publication/345806462_Differences_in_thermal_comfort_state_transitional_time_among_comfort_preference_groups)
 
   - **Is your clock-face cozie? A smartwatch methodology for the in-situ collection of occupant comfort data.** <br/>
   Jayathissa, P., Quintana, M., Sood, T., Nazarian, N., & Miller, C. <br/>
   (2019, November).  In Journal of Physics: Conference Series (Vol. 1343, No. 1, p. 012145). IOP Publishing.  <br/>
-    https://doi.org/10.1088/1742-6596/1343/1/012145
+  https://doi.org/10.1088/1742-6596/1343/1/012145
 
