@@ -4,7 +4,7 @@ title: Apple vs. Fitbit
 sidebar_label: Apple vs. Fitbit
 ---
 
-Cozie is available for the Apple Watch and for select Fitbit devices. Watch-based surveys are availble on both frameworks. However, the surrounding feature set differs between the two frameworks and might also depend on the exact devices used.
+Cozie is available for the Apple Watch and for select Fitbit devices. Watch-based surveys are available on both frameworks. However, the surrounding feature set differs between the two frameworks and might also depend on the exact devices used.
 
 ## Look
 
@@ -26,7 +26,7 @@ Cozie Apple: <br/>
             <td> Cozie Apple </td>
         </tr>
         <tr>
-            <td> Clockface</td>
+            <td> Clock face</td>
             <td> 
                 <img src="/img/cozie_fitbit_clockface.png" alt="Cozie Fitbit screen" style={{height:200+'px'}}/> 
             </td>
@@ -89,7 +89,7 @@ Cozie Apple: <br/>
             <td style={{background: '#99FFCC'}}> unlimited </td>
         </tr>
         <tr>
-            <td> Heart rate variablilty data all day </td>
+            <td> Heart rate variability data all day </td>
             <td style={{background: '#99FFCC'}}> No </td>
             <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>

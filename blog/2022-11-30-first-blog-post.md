@@ -11,7 +11,7 @@ tags: [blog, cozie, website]
 
 We just cleaned up the web presence of Cozie. There are now three distinct website: 
 1. https://www.cozie.app <br/> 
-On cozie.app, resrearch using the Cozie framework is featured, and it also links to the websites dedicated to the Cozie frameworks for Apple and Fitbit devices.
+On cozie.app, research using the Cozie framework is featured, and it also links to the websites dedicated to the Cozie frameworks for Apple and Fitbit devices.
 
 2. https://www.cozie-apple.app <br/> 
 cozie-apple.app is the home for all things related to Cozie for Apple. It hosts the documentation for Cozie-Apple.

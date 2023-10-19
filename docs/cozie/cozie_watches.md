@@ -21,7 +21,7 @@ Please, note that the watch screen size can influence how the content is rendere
 
 
 ## Fitbit
-Fitbit's SDK has a compatiibility break. Hence, there are two versions for Cozie Fitbit.
+Fitbit's SDK has a compatibility break. Hence, there are two versions for Cozie Fitbit.
 
 | Watch             | SDK | Tested | Availability |
 |-------------------|-----|--------|--------------|
