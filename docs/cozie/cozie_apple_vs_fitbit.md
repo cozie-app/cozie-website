@@ -40,103 +40,128 @@ Cozie Apple: <br/>
         </tr>
         <tr>
             <td>iPhones</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td>Question Flows</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td>Watch surveys</td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+        </tr>
+        <tr>
+            <td> User definable watch survey</td>
+            <td style={{background: '#FF9B9B'}}>No (requires changes to the app)</td>
+            <td style={{background: '#99FFCC'}}>Yes (link to JSON file)</td>
         </tr>
         <tr>
             <td>Follow up questions</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td>Heart Rate data at the time of question flow response</td>
+            <td>Heart rate data at the time of question flow response</td>
             <td style={{background: '#99FFCC'}}> Yes</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> GPS data at the time of question flow response  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> GPS data at the time of question flow response </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+            <td style={{background: '#99FFCC'}}> Yes (including accuracy metrics) </td>
         </tr>
         <tr>
-            <td> Heart Rate data all day  </td>
-            <td style={{background: '#99FFCC'}}> Yes (from Fitbit API)  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Heart rate data all day </td>
+            <td style={{background: '#99FFCC'}}> Yes (from Fitbit API) </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Scheduled reminders watch surveys  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Resting heart rate data </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Number of response option per question flow question  </td>
-            <td style={{background: '#FFFF99'}}> 4  </td>
-            <td style={{background: '#99FFCC'}}> unlimited  </td>
+            <td> Scheduled reminders watch surveys </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Step count data  </td>
-            <td style={{background: '#FFFF99'}}> Not reliable  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Number of response option per question flow question </td>
+            <td style={{background: '#FFFF99'}}> 4 </td>
+            <td style={{background: '#99FFCC'}}> unlimited </td>
         </tr>
         <tr>
-            <td> Walking distance data  </td>
-            <td style={{background: '#FFFF99'}}> Not reliable  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Heart rate variablilty data all day </td>
+            <td style={{background: '#99FFCC'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Noise data  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Stand time data </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Blood Oxygen Saturation Data  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Step count data </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Externally triggered notifications  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Walking distance data </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Instantaneous response submission to database  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Noise data </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Weekly survey in app  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Blood oxygen saturation data </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Configurable participation hours  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Sleep analysis data </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Configurable participation days  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Externally triggered notifications </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Response counter in app  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#99FFCC'}}>Yes</td>
+            <td> Instantaneous response submission to database </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Skin temperature data  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
+            <td> Phone survey </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Indoor location  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
-            <td style={{background: '#FF9B9B'}}> No  </td>
+            <td> Configurable participation hours </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+        </tr>
+        <tr>
+            <td> Configurable participation days </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+        </tr>
+        <tr>
+            <td> Response counter in app </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+        </tr>
+        <tr>
+            <td> Wrist temperature data </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#FFFF99'}}> Yes (one value per night)</td>
+        </tr>
+        <tr>
+            <td> Indoor location </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
         </tr>
     </tbody>
 </table>
