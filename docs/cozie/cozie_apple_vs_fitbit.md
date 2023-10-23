@@ -54,7 +54,7 @@ Cozie Apple: <br/>
             <td style={{background: '#99FFCC'}}>Yes (link to JSON file)</td>
         </tr>
         <tr>
-            <td>Follow up questions</td>
+            <td>Follow-up questions</td>
             <td style={{background: '#99FFCC'}}> Yes </td>
             <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
@@ -84,7 +84,7 @@ Cozie Apple: <br/>
             <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
-            <td> Number of response option per question flow question </td>
+            <td> Number of response options per question flow question </td>
             <td style={{background: '#FFFF99'}}> 4 </td>
             <td style={{background: '#99FFCC'}}> unlimited </td>
         </tr>
