@@ -4,7 +4,7 @@ title: Watches for Cozie
 sidebar_label: Watches for Cozie
 ---
 
-Cozie is currently available on Apple Watches and select Fitbit devices. Below, you will find an overview of all device compatible with Cozie.
+Cozie is currently available on Apple Watches and select Fitbit devices. Below, you will find an overview of all devices compatible with Cozie.
 
 ## Apple Watch
 Cozie should work on all Apple Watches. However, we have only tested the following devices:
@@ -14,14 +14,15 @@ Cozie should work on all Apple Watches. However, we have only tested the followi
 |Apple Watch Series 6 | Model: 44mm, GPS, no cellular | no longer sold |
 |Apple Watch Series 7 | Model: 45mm, GPS, no cellular | no longer sold |
 |Apple Watch Series SE (2nd Gen) | Model: 44mm, GPS, no cellular | [available](https://www.apple.com/apple-watch-se/) |
-|Apple Watch Series 8 | Model: 45mm, GPS, no cellular | [available](https://www.apple.com/apple-watch-series-8/) |
+|Apple Watch Series 8 | Model: 45mm, GPS, no cellular | no longer sold |
+|Apple Watch Series 9 | not yet tested | [available](https://www.apple.com/apple-watch-series-9/) |
 
 [Please let us know](mailto:cozie.app@gmail.com) if you have used Cozie successfully on other Apple Watches.
 Please, note that the watch screen size can influence how the content is rendered, i.e., strings might be broken up differently to multiple lines depending on the watch screen size.
 
 
 ## Fitbit
-Fitbit's SDK has a compatibility break. Hence, there are two versions for Cozie Fitbit.
+Fitbit's SDK has a compatibility break. Hence, there are two versions of Cozie Fitbit.
 
 | Watch             | SDK | Tested | Availability |
 |-------------------|-----|--------|--------------|
