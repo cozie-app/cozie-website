@@ -10,15 +10,15 @@ Cozie is a smartwatch application for human comfort data collection. It prompts 
 
 Cozie is available for the Apple Watch and select Fitbit devices.
 
-To find out more about Cozie on the different platforms visit the respective websites: 
+To find out more about Cozie on the different platforms, visit the respective websites: 
 - https://www.cozie-fitbit.app
 - https://www.cozie-apple.app 
 
-Alternatively, you contact us at cozie.app@gmail.com
+Alternatively, you can contact us at cozie.app@gmail.com
 
 
 # Publications
-Below, is a list of publications about Cozie or research involving Cozie, as well as research relevant to Cozie
+Below is a list of publications about Cozie or research involving Cozie, as well as research relevant to Cozie
  - [Research using Cozie](/docs/research/publications-cozie)
  - [Review papers including Cozie](/docs/research/publications-cozie-reviews)
  - [Reading recommendations for Environmental Momentary Assessment (EMA)](/docs/research/publications-ema)
