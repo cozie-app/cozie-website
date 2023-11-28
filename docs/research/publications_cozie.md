@@ -34,11 +34,6 @@ The publications listed below use Cozie. Some but not all publications listed be
   (2023). Sustainable Cities and Society, 93, 104480<br/>
   https://www.sciencedirect.com/science/article/abs/pii/S2210670723000914<br/>
 
-  - **Cohort comfort models - Using occupant’s similarity to predict personal thermal preference with less data** <br/>
-  Matias Quintana, Stefano Schiavon, Federico Tartarini, Joyce Kim, Clayton Miller<br/>
-  (2022). Building and Environment, 109685.<br/>
-  https://www.sciencedirect.com/science/article/pii/S0360132322009155<br/>
-
   - **Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants** <br/>
   Clayton Miller, Yun Xuan Chua, Mario Frei, Matias Quintana <br/>
   (2022). BuildSys '22: Proceedings of the 9th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation<br/>
@@ -48,11 +43,6 @@ The publications listed below use Cozie. Some but not all publications listed be
   Tartarini, F., Schiavon, S., Quintana, M., & Miller, C. <br/>
   (2022).  Indoor Air, 32(11), e13160. <br/>
   https://doi.org/10.1111/ina.13160 <br/>
-
-  - **Personal comfort models based on a six‐month experiment using environmental parameters and data from wearables.** <br/>
-  Tartarini, F., Schiavon, S., Quintana, M., & Miller, C.<br/>
-  (2022).  Indoor Air, 32(11), e13160.  <br/>
-  https://doi.org/10.1111/ina.13160
 
   - **Cohort comfort models - Using occupant’s similarity to predict personal thermal preference with less data.**  <br/> 
   Quintana, M., Schiavon, S., Tartarini, F., Kim, J., & Miller, C. <br/> 
