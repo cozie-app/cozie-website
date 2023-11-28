@@ -1,7 +1,7 @@
 ---
 id: publications-cozie
-title: Papers with Cozie 
-sidebar_label: Papers with Cozie 
+title: Research using Cozie 
+sidebar_label: Research using Cozie 
 ---
 
 The publications listed below use Cozie. Some but not all publications listed below are authored by the makers of Cozie. 
@@ -94,3 +94,21 @@ The publications listed below use Cozie. Some but not all publications listed be
   (2019, November).  In Journal of Physics: Conference Series (Vol. 1343, No. 1, p. 012145). IOP Publishing.  <br/>
   https://doi.org/10.1088/1742-6596/1343/1/012145
 
+
+## Review papers including Cozie
+The publications listed below are not necessarily authored by the makers of Cozie. However, Cozie is mentioned in these publications.
+
+- **A Review of the Use of Wearables in Indoor Environmental Quality Studies and an Evaluation of Data Accessibility from a Wearable Device.** <br/>
+Abboushi, B., Safranek, S., Rodriguez-Feo Bermudez, E., Pratoomratana, S., Chen, Y., Poplawski, M., & Davis, R.  <br/>
+(2022).  Frontiers in Built Environment, 8. <br/>
+https://doi.org/10.3389/fbuil.2022.787289
+
+- **Self-Reports in the Field Using Smartwatches: An Open-Source Firmware Solution.** <br/>
+Volsa, S., Batinic, B., & Stieger, S. <br/>
+(2022).  Sensors, 22(5), 1980.<br/>
+https://doi.org/10.3390/s22051980
+
+- **Transformational IoT sensing for air pollution and thermal exposures.** <br/>
+Pantelic, J., Nazarian, N., Miller, C., Meggers, F., Lee, J. K. W., & Licina, D. <br/>
+(2022).  Frontiers In Built Environment, 8, 971523.<br/>
+https://doi.org/10.3389/fbuil.2022.971523

@@ -28,7 +28,6 @@ const sidebars = {
 
     "Publications": [
       "research/publications-cozie",
-      "research/publications-cozie-reviews",
       "research/publications-ema",
       "research/publications-jitai"
       ],
