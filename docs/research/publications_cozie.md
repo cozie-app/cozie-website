@@ -16,13 +16,18 @@ The publications listed below use Cozie. Some but not all publications listed be
 
   - **Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection** <br/>
   Federico Tartarini, Mario Frei, Stefano Schiavon, Yun Xuan Chua, Clayton Miller<br/>
-  (2023) arXiv<br/>
-  https://arxiv.org/abs/2210.13977<br/>
+  (2023) Journal of Physics: Conference Series, 2600(14), 142003. <br/>
+  https://doi.org/10.1088/1742-6596/2600/14/142003 <br/>
 
   - **Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces** <br/>
   Kristi Maisha, Mario Frei, Matias Quintana, Yun Xuan Chua, Rishee Jain, Clayton Miller<br/>
-  (2023) arXiv<br/>
-  https://arxiv.org/abs/2307.00789<br/>
+  (2023) Journal of Physics: Conference Series, 2600(14), 142009 <br/>
+  https://doi.org/10.1088/1742-6596/2600/14/142009<br/>
+
+  - **Investigation of personal air pollution exposures and occupants' fresh air demands in two office buildings in Switzerland** <br/>
+  Seoyeon Yun, Dusan Licina<br/>
+  (2023) Journal of Physics: Conference Series, 2600(10), 102010 <br/>
+  https://doi.org/10.1088/1742-6596/2600/10/102010<br/>
 
   - **Investigation of indicators for personal exposure and occupancy in offices by using smart sensors** <br/>
   Seoyeon Yun, Dusan Licina <br/>
