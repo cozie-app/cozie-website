@@ -33,4 +33,6 @@ Fitbit's SDK has a compatibility break. Hence, there are two versions of Cozie F
 |Fitbit Versa       | Old | Yes    | No           |
 |Fitbit Ionic       | Old | Yes    | No           |
 
+Some of the newer Fitbit devices do not support third-party apps and hence are incompatible with Cozie Fitbit, e.g., Fitbit Versa 4 or Fitbit Sense 2.
+
 [Please let us know](mailto:cozie.app@gmail.com) if you have used Cozie successfully on other Fitbit devices.
