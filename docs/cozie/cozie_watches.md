@@ -26,9 +26,9 @@ Fitbit's SDK has a compatibility break. Hence, there are two versions of Cozie F
 
 | Watch             | SDK | Tested | Availability |
 |-------------------|-----|--------|--------------|
-|Fitbit Sense       | New | No     | Yes          |
-|Fitbit Versa 3     | New | No     | Yes          |
-|Fitbit Versa 2     | Old | Yes    | Yes          |
+|Fitbit Sense       | New | No     | No           |
+|Fitbit Versa 3     | New | Yes    | No           |
+|Fitbit Versa 2     | Old | Yes    | No           |
 |Fitbit Versa Light | Old | Yes    | No           |
 |Fitbit Versa       | Old | Yes    | No           |
 |Fitbit Ionic       | Old | Yes    | No           |
