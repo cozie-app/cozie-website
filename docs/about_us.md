@@ -1,6 +1,6 @@
 # About us
 
-Cozie has been developed by researchers from the [BUDS Lab](https://budslab.org/) at the National University of Singapore and from the [SinBerBEST](https://sinberbest.berkeley.edu/) research program within the Berkeley Education Alliance for Research in Singapore (BEARS). 
+Cozie has been developed by researchers from the [BUDS Lab](https://budslab.org/) at the National University of Singapore and from the [Center for the Built Environment at UC Berkeley](https://cbe.berkeley.edu/). 
 
 A selection of our research using Cozie is available in the [Publications section](/docs/research/publications-cozie)
 
@@ -14,7 +14,7 @@ A selection of our research using Cozie is available in the [Publications sectio
     <br/>
     <br/>
     <br/>
-    <a href="https://sinberbest.berkeley.edu/">
-        <img src="/img/logo_sinberbest.png" alt="Logo SinBerBEST" style={{width:40+'%'}}/> 
+    <a href="https://cbe.berkeley.edu/">
+        <img src="/img/logo_cbe.png" alt="Logo CBE" style={{width:40+'%'}}/> 
     </a>
 </p>
