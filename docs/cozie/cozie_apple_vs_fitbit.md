@@ -6,6 +6,8 @@ sidebar_label: Apple vs. Fitbit
 
 Cozie is available for the Apple Watch and for select Fitbit devices. Watch-based surveys are available on both frameworks. However, the surrounding feature set differs between the two frameworks and might also depend on the exact devices used.
 
+** Please note that starting June 2024, third-party apps will no longer be available on the Fitbit app gallery in the EU, and hence, Cozie for Fitbit will no longer be available in the EU. ([Source](https://www.androidcentral.com/apps-software/google-fitbit-third-party-app-removal-announced)) **
+
 ## Look
 
 Cozie Fitbit:
