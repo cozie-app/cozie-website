@@ -2,7 +2,7 @@
 
 Cozie has been developed by researchers from the [BUDS Lab](https://budslab.org/) at the National University of Singapore and from the [Center for the Built Environment at UC Berkeley](https://cbe.berkeley.edu/). 
 
-A selection of our research using Cozie is available in the [Publications section](/docs/research/publications-cozie)
+A selection of our research using Cozie is available in the [Publications section](/docs/research/publications-cozie).
 
 <p align="center">
     <br/>
