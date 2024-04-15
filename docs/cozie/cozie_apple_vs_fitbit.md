@@ -161,6 +161,21 @@ Cozie Apple: <br/>
             <td style={{background: '#FFFF99'}}> Yes (one value per night)</td>
         </tr>
         <tr>
+            <td> Workout type </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#FFFF99'}}> Yes (in development)</td>
+        </tr>
+        <tr>
+            <td> Workout duration </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#FFFF99'}}> Yes (in development)</td>
+        </tr>
+        <tr>
+            <td> Activity minutes </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#FFFF99'}}> Yes (in development)</td>
+        </tr>
+        <tr>
             <td> Indoor location </td>
             <td style={{background: '#FF9B9B'}}> No </td>
             <td style={{background: '#FF9B9B'}}> No </td>
