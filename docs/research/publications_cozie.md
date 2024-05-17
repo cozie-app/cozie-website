@@ -100,7 +100,7 @@ The publications listed below use Cozie. Some but not all publications listed be
   https://doi.org/10.1088/1742-6596/1343/1/012145
 
 
-## Review papers including Cozie
+<h2> Review papers including Cozie </h2>
 The publications listed below are not necessarily authored by the makers of Cozie. However, Cozie is mentioned in these publications.
 
 - **A Review of the Use of Wearables in Indoor Environmental Quality Studies and an Evaluation of Data Accessibility from a Wearable Device.** <br/>
