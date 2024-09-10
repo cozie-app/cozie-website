@@ -7,12 +7,24 @@ sidebar_label: Research using Cozie
 The publications listed below use Cozie. Some but not all publications listed below are authored by the makers of Cozie. 
 
   
-<!-- Template:
+<!-- Template: 
+Retrieve data from Google Scholar APA Citation
   - **** <br/>
   <br/>
   <br/>
   <br/>
 -->
+
+  - **Humans As Sensors in Urban Digital Twins** <br/>
+  Binyu Lei, Su Yunlei, Filip Biljecki<br/>
+  (2023) International 3D GeoInfo Conference (pp. 693-706)<br/>
+  https://doi.org/10.1007/978-3-031-43699-4_42 <br/>
+
+
+  - **Digital Twin and Wearables Unveiling Pedestrian Comfort Dynamics and Walkability in Cities** <br/>
+  Marcel Ignatius, Joie Lim, Ben Gottkehaskamp, Kunihiko Fujiwara, Clayton Miller, Filip Biljecki <br/>
+  (2024) ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences 10 <br/>
+  https://doi.org/10.5194/isprs-annals-x-4-w5-2024-195-2024 <br/>
 
   - **Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection** <br/>
   Federico Tartarini, Mario Frei, Stefano Schiavon, Yun Xuan Chua, Clayton Miller<br/>
