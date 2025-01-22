@@ -156,6 +156,11 @@ Cozie Apple: <br/>
             <td style={{background: '#99FFCC'}}> Yes </td>
         </tr>
         <tr>
+            <td> Push notifications </td>
+            <td style={{background: '#FF9B9B'}}> No </td>
+            <td style={{background: '#99FFCC'}}> Yes </td>
+        </tr>
+        <tr>
             <td> Wrist temperature data </td>
             <td style={{background: '#FF9B9B'}}> No </td>
             <td style={{background: '#FFFF99'}}> Yes (one value per night)</td>
