@@ -14,7 +14,11 @@ Retrieve data from Google Scholar APA Citation
   <br/>
   <br/>
 -->
-
+  - **Longitudinal Analysis of Thermal Responses: A Comparative Study of Home and Office Environments in Singapore and Japan** <br/>
+  Mihara, K., Cheung, T., Ono, E., Arisaka, S., & Hasama, T. (2025).<br/>
+  Building and Environment, 113108.<br/>
+  https://doi.org/10.1016/j.buildenv.2025.113108<br/> 
+    
   - **Exploring Urban Comfort through Novel Wearables and Environmental Surveys** <br/>
   Chwalek, P., Zhong, S., Perry, N., Liu, T., Miller, C., Alavi, H. S., Paradiso, J. A. & Paradiso, J. A. <br/>
   (2024) arXiv preprint<br/>
