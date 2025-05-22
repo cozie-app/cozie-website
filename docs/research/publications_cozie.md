@@ -14,15 +14,16 @@ Retrieve data from Google Scholar APA Citation
   <br/>
   <br/>
 -->
+
   - **Longitudinal Analysis of Thermal Responses: A Comparative Study of Home and Office Environments in Singapore and Japan** <br/>
   Mihara, K., Cheung, T., Ono, E., Arisaka, S., & Hasama, T. (2025).<br/>
   Building and Environment, 113108.<br/>
   https://doi.org/10.1016/j.buildenv.2025.113108<br/> 
     
-  - **Exploring Urban Comfort through Novel Wearables and Environmental Surveys** <br/>
-  Chwalek, P., Zhong, S., Perry, N., Liu, T., Miller, C., Alavi, H. S., Paradiso, J. A. & Paradiso, J. A. <br/>
-  (2024) arXiv preprint<br/>
-  https://doi.org/10.48550/arXiv.2408.08323 <br/>
+  - **A dataset exploring urban comfort through novel wearables and environmental surveys.** <br/>
+  Chwalek, P., Zhong, S., Perry, N., Liu, T., Miller, C., Alavi, H. S., Lalanne, D. & Paradiso, J. A. (2024).<br/>
+  Scientific data, 11(1), 1423.<br/>
+  https://doi.org/10.1016/j.buildenv.2025.113047<br/>
 
   - **Digital Twin and Wearables Unveiling Pedestrian Comfort Dynamics and Walkability in Cities** <br/>
   Marcel Ignatius, Joie Lim, Ben Gottkehaskamp, Kunihiko Fujiwara, Clayton Miller, Filip Biljecki <br/>
