@@ -6,7 +6,7 @@ sidebar_label: What is Cozie?
 
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
-Cozie is a smartwatch application for human comfort data collection. It prompts users to respond to quick right-here-right-now surveys on smartwatches. Each survey response is tagged with the location of the participant. Cozie is also able to collect additional information, such as heart rate.
+Cozie is a smartwatch application for human comfort data collection. It prompts users to respond to quick, right-here-right-now surveys on smartwatches. Each survey response is tagged with the location of the participant. Cozie is also able to collect additional information, such as heart rate.
 
 Cozie is available for the Apple Watch and select Fitbit devices.
 
