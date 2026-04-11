@@ -13,11 +13,7 @@ The publications listed below use Cozie. Some but not all publications listed be
   <br/>
   <br/>
 -->
-<!-- 
-   
- - Add three CISBAT 2025 papers
-   - UTCI vs. human perception: assessing thermal comfort for the aging population
-   
+<!--    
  - Add Indoor Air 2026 papers:
    - Bedroom Nighttime Temperature, Humidity and Sleep Duration in Singapore Homes
    - Just-in-Time Adaptive Interventions (JITAI) to Improve Indoor Air Quality in Sleep Environments: A Pilot Study
