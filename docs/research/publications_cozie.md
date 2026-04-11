@@ -7,8 +7,7 @@ sidebar_label: Research using Cozie
 The publications listed below use Cozie. Some but not all publications listed below are authored by the makers of Cozie. 
 
   
-<!-- Template: 
-Retrieve data from Google Scholar APA Citation
+<!-- Template: Retrieve data from Google Scholar APA Citation
   - **** <br/>
   <br/>
   <br/>
@@ -17,7 +16,6 @@ Retrieve data from Google Scholar APA Citation
 <!-- 
    
  - Add three CISBAT 2025 papers
-   - Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys
    - The Cool, Quiet City machine learning competition: Overview and results
    - UTCI vs. human perception: assessing thermal comfort for the aging population
    
@@ -26,7 +24,13 @@ Retrieve data from Google Scholar APA Citation
    - Just-in-Time Adaptive Interventions (JITAI) to Improve Indoor Air Quality in Sleep Environments: A Pilot Study
 -->
 
+
   
+  
+  - **Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys.** <br/>
+  Miller, C., Chua, Y. X., Frei, M., Zhang, W., Kyaw, G. M. M., Seah, T. J. X., Fan, X. J., Parkinson, T., Zhang, H., Lo, J.C, Lee, J.& Schiavon, S. <br/>
+  (2025, November) In Journal of Physics: Conference Series (Vol. 3140, No. 7, p. 072005). IOP Publishing. <br/>
+  https://doi.org/10.1088/1742-6596/3140/7/072005 <br/>
 
   - **Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences.** <br/>
   Kashiwazaki, M., Takemoto, S., Fukawa, Y., Shimoyama, C., Minami, K., Watanabe, F., Frei, M., Tartarini, F., Miller, C., Schiavon, S. & Tanabe, S. I. <br/>
