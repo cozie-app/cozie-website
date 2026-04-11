@@ -16,7 +16,6 @@ The publications listed below use Cozie. Some but not all publications listed be
 <!-- 
    
  - Add three CISBAT 2025 papers
-   - The Cool, Quiet City machine learning competition: Overview and results
    - UTCI vs. human perception: assessing thermal comfort for the aging population
    
  - Add Indoor Air 2026 papers:
@@ -25,16 +24,24 @@ The publications listed below use Cozie. Some but not all publications listed be
 -->
 
 
+  - **** <br/>
+  <br/>
+  <br/>
+  <br/>
   
+  - **The Cool, Quiet City machine learning competition: Overview and results.** <br/>
+  Miller, C., Ibrahim, M., Akbar, I. S., Picchetti, B., Chua, Y. X., Frei, M., Biljecki, F., Chong, A., & Fu, C. <br/>
+  (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 11, p. 112017). IOP Publishing <br/>
+  https://doi.org/10.1088/1742-6596/3140/11/112017 <br/>
   
   - **Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys.** <br/>
   Miller, C., Chua, Y. X., Frei, M., Zhang, W., Kyaw, G. M. M., Seah, T. J. X., Fan, X. J., Parkinson, T., Zhang, H., Lo, J.C, Lee, J.& Schiavon, S. <br/>
-  (2025, November) In Journal of Physics: Conference Series (Vol. 3140, No. 7, p. 072005). IOP Publishing. <br/>
+  (2025, November) In Journal of Physics: Conference Series (Vol. 3140, No. 7, p. 072005). IOP Publishing <br/>
   https://doi.org/10.1088/1742-6596/3140/7/072005 <br/>
 
   - **Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences.** <br/>
   Kashiwazaki, M., Takemoto, S., Fukawa, Y., Shimoyama, C., Minami, K., Watanabe, F., Frei, M., Tartarini, F., Miller, C., Schiavon, S. & Tanabe, S. I. <br/>
-  (2025). In REHVA HVAC World Congress (pp. 3-13). Cham: Springer Nature Switzerland.<br/>
+  (2025). In REHVA HVAC World Congress (pp. 3-13). Cham: Springer Nature Switzerland <br/>
   https://doi.org/10.1007/978-3-032-06810-1_1 <br/>
   
   - **Multidimensional analysis of human outdoor comfort: Integrating just-in-time adaptive interventions (JITAIs) in urban digital twins** <br/>
