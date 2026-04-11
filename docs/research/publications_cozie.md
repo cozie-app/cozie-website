@@ -14,8 +14,21 @@ Retrieve data from Google Scholar APA Citation
   <br/>
   <br/>
 -->
-<!-- Add three CISBAT 2025 papers
+<!-- 
+ - Other:
+   - Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences
+   - Multidimensional analysis of human outdoor comfort: Integrating just-in-time adaptive interventions (JITAIs) in urban digital twins
+   
+ - Add three CISBAT 2025 papers
+   - Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys
+   - The Cool, Quiet City machine learning competition: Overview and results
+   - UTCI vs. human perception: assessing thermal comfort for the aging population
+   
+ - Add Indoor Air 2026 papers:
+   - Bedroom Nighttime Temperature, Humidity and Sleep Duration in Singapore Homes
+   - Just-in-Time Adaptive Interventions (JITAI) to Improve Indoor Air Quality in Sleep Environments: A Pilot Study
 -->
+
   - **Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)** <br/>
   Miller, C., Chua, Y. X., Quintana, M., Lei, B., Biljecki, F., Frei, M. <br/>
   (2025) Building and Environment, 284, 113388<br/>
