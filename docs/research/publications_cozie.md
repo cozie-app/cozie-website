@@ -29,6 +29,12 @@ Retrieve data from Google Scholar APA Citation
    - Just-in-Time Adaptive Interventions (JITAI) to Improve Indoor Air Quality in Sleep Environments: A Pilot Study
 -->
 
+
+  - **Multidimensional analysis of human outdoor comfort: Integrating just-in-time adaptive interventions (JITAIs) in urban digital twins** <br/>
+  Lei, B., Liu, P., Fujiwara, K., Frei, M., Miller, C., Chua, Y. X., & Biljecki, F. <br/>
+  (2026). Cities, 168, 106443.<br/>
+  https://doi.org/10.1016/j.cities.2025.106443<br/>
+
   - **Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)** <br/>
   Miller, C., Chua, Y. X., Quintana, M., Lei, B., Biljecki, F., Frei, M. <br/>
   (2025) Building and Environment, 284, 113388<br/>
@@ -36,12 +42,12 @@ Retrieve data from Google Scholar APA Citation
 
   - **Longitudinal Analysis of Thermal Responses: A Comparative Study of Home and Office Environments in Singapore and Japan** <br/>
   Mihara, K., Cheung, T., Ono, E., Arisaka, S., & Hasama, T.<br/>
-  (2025) Building and Environment, 113108.<br/>
+  (2025) Building and Environment, 113108<br/>
   https://doi.org/10.1016/j.buildenv.2025.113108<br/> 
     
   - **A dataset exploring urban comfort through novel wearables and environmental surveys.** <br/>
   Chwalek, P., Zhong, S., Perry, N., Liu, T., Miller, C., Alavi, H. S., Lalanne, D. & Paradiso, J. A. <br/>
-  (2024) Scientific data, 11(1), 1423.<br/>
+  (2024) Scientific data, 11(1), 1423<br/>
   https://doi.org/10.1016/j.buildenv.2025.113047<br/>
 
   - **Digital Twin and Wearables Unveiling Pedestrian Comfort Dynamics and Walkability in Cities** <br/>
@@ -55,29 +61,29 @@ Retrieve data from Google Scholar APA Citation
   https://doi.org/10.1007/978-3-031-43699-4_42 <br/>
 
   - **Cozie Apple: An iOS mobile and smartwatch application for environmental quality satisfaction and physiological data collection** <br/>
-  Federico Tartarini, Mario Frei, Stefano Schiavon, Yun Xuan Chua, Clayton Miller<br/>
-  (2023) Journal of Physics: Conference Series, 2600(14), 142003. <br/>
+  Federico Tartarini, Mario Frei, Stefano Schiavon, Yun Xuan Chua, Clayton Miller <br/>
+  (2023) Journal of Physics: Conference Series, 2600(14), 142003 <br/>
   https://doi.org/10.1088/1742-6596/2600/14/142003 <br/>
 
   - **Utilizing wearable technology to characterize and facilitate occupant collaborations in flexible workspaces** <br/>
-  Kristi Maisha, Mario Frei, Matias Quintana, Yun Xuan Chua, Rishee Jain, Clayton Miller<br/>
+  Kristi Maisha, Mario Frei, Matias Quintana, Yun Xuan Chua, Rishee Jain, Clayton Miller <br/>
   (2023) Journal of Physics: Conference Series, 2600(14), 142009 <br/>
   https://doi.org/10.1088/1742-6596/2600/14/142009<br/>
 
   - **Investigation of personal air pollution exposures and occupants' fresh air demands in two office buildings in Switzerland** <br/>
-  Seoyeon Yun, Dusan Licina<br/>
+  Seoyeon Yun, Dusan Licina <br/>
   (2023) Journal of Physics: Conference Series, 2600(10), 102010 <br/>
-  https://doi.org/10.1088/1742-6596/2600/10/102010<br/>
+  https://doi.org/10.1088/1742-6596/2600/10/102010 <br/>
 
   - **Investigation of indicators for personal exposure and occupancy in offices by using smart sensors** <br/>
   Seoyeon Yun, Dusan Licina <br/>
-  (2023). Energy and Buildings, 113539<br/>
-  https://www.sciencedirect.com/science/article/pii/S0378778823007697<br/>
+  (2023). Energy and Buildings, 113539 <br/>
+  https://www.sciencedirect.com/science/article/pii/S0378778823007697 <br/>
 
   - **Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort** <br/>
-  Pengyuan Liu, Tianhong Zhao, Junjie Luo, Binyu Lei, Mario Frei, Clayton Miller, Filip Biljecki<br/>
-  (2023). Sustainable Cities and Society, 93, 104480<br/>
-  https://www.sciencedirect.com/science/article/abs/pii/S2210670723000914<br/>
+  Pengyuan Liu, Tianhong Zhao, Junjie Luo, Binyu Lei, Mario Frei, Clayton Miller, Filip Biljecki <br/>
+  (2023). Sustainable Cities and Society, 93, 104480 <br/>
+  https://www.sciencedirect.com/science/article/abs/pii/S2210670723000914 <br/>
 
   - **Towards smartwatch-driven just-in-time adaptive interventions (JITAI) for building occupants** <br/>
   Clayton Miller, Yun Xuan Chua, Mario Frei, Matias Quintana <br/>
