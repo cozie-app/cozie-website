@@ -15,9 +15,6 @@ Retrieve data from Google Scholar APA Citation
   <br/>
 -->
 <!-- 
- - Other:
-   - Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences
-   - Multidimensional analysis of human outdoor comfort: Integrating just-in-time adaptive interventions (JITAIs) in urban digital twins
    
  - Add three CISBAT 2025 papers
    - Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys
@@ -29,7 +26,13 @@ Retrieve data from Google Scholar APA Citation
    - Just-in-Time Adaptive Interventions (JITAI) to Improve Indoor Air Quality in Sleep Environments: A Pilot Study
 -->
 
+  
 
+  - **Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences.** <br/>
+  Kashiwazaki, M., Takemoto, S., Fukawa, Y., Shimoyama, C., Minami, K., Watanabe, F., Frei, M., Tartarini, F., Miller, C., Schiavon, S. & Tanabe, S. I. <br/>
+  (2025). In REHVA HVAC World Congress (pp. 3-13). Cham: Springer Nature Switzerland.<br/>
+  <br/>
+  
   - **Multidimensional analysis of human outdoor comfort: Integrating just-in-time adaptive interventions (JITAIs) in urban digital twins** <br/>
   Lei, B., Liu, P., Fujiwara, K., Frei, M., Miller, C., Chua, Y. X., & Biljecki, F. <br/>
   (2026). Cities, 168, 106443.<br/>
