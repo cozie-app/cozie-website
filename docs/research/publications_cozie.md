@@ -31,7 +31,7 @@ Retrieve data from Google Scholar APA Citation
   - **Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences.** <br/>
   Kashiwazaki, M., Takemoto, S., Fukawa, Y., Shimoyama, C., Minami, K., Watanabe, F., Frei, M., Tartarini, F., Miller, C., Schiavon, S. & Tanabe, S. I. <br/>
   (2025). In REHVA HVAC World Congress (pp. 3-13). Cham: Springer Nature Switzerland.<br/>
-  <br/>
+  https://doi.org/10.1007/978-3-032-06810-1_1 <br/>
   
   - **Multidimensional analysis of human outdoor comfort: Integrating just-in-time adaptive interventions (JITAIs) in urban digital twins** <br/>
   Lei, B., Liu, P., Fujiwara, K., Frei, M., Miller, C., Chua, Y. X., & Biljecki, F. <br/>
