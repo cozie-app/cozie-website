@@ -23,23 +23,23 @@ The publications listed below use Cozie. Some but not all publications listed be
    - Just-in-Time Adaptive Interventions (JITAI) to Improve Indoor Air Quality in Sleep Environments: A Pilot Study
 -->
 
-
-  - **** <br/>
-  <br/>
-  <br/>
-  <br/>
   
-  - **The Cool, Quiet City machine learning competition: Overview and results.** <br/>
-  Miller, C., Ibrahim, M., Akbar, I. S., Picchetti, B., Chua, Y. X., Frei, M., Biljecki, F., Chong, A., & Fu, C. <br/>
-  (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 11, p. 112017). IOP Publishing <br/>
-  https://doi.org/10.1088/1742-6596/3140/11/112017 <br/>
-  
-  - **Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys.** <br/>
+  - **Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys** <br/>
   Miller, C., Chua, Y. X., Frei, M., Zhang, W., Kyaw, G. M. M., Seah, T. J. X., Fan, X. J., Parkinson, T., Zhang, H., Lo, J.C, Lee, J.& Schiavon, S. <br/>
   (2025, November) In Journal of Physics: Conference Series (Vol. 3140, No. 7, p. 072005). IOP Publishing <br/>
   https://doi.org/10.1088/1742-6596/3140/7/072005 <br/>
 
-  - **Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences.** <br/>
+  - **UTCI vs. human perception: assessing thermal comfort for the aging population** <br/>
+  You, J., Gottkehaskamp, B. G., Stouffs, R., Frei, M., Wang, D., & Miller, C. <br/>
+  (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 8, p. 082007). IOP Publishing <br/>
+  https://doi.org/10.1088/1742-6596/3140/19/082007 <br/>
+  
+  - **The Cool, Quiet City machine learning competition: Overview and results** <br/>
+  Miller, C., Ibrahim, M., Akbar, I. S., Picchetti, B., Chua, Y. X., Frei, M., Biljecki, F., Chong, A., & Fu, C. <br/>
+  (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 11, p. 112017). IOP Publishing <br/>
+  https://doi.org/10.1088/1742-6596/3140/11/112017 <br/>
+
+  - **Longitudinal Evaluation of Office Work Performance and Well-Being with a Focus on Individual Differences** <br/>
   Kashiwazaki, M., Takemoto, S., Fukawa, Y., Shimoyama, C., Minami, K., Watanabe, F., Frei, M., Tartarini, F., Miller, C., Schiavon, S. & Tanabe, S. I. <br/>
   (2025). In REHVA HVAC World Congress (pp. 3-13). Cham: Springer Nature Switzerland <br/>
   https://doi.org/10.1007/978-3-032-06810-1_1 <br/>
@@ -59,7 +59,7 @@ The publications listed below use Cozie. Some but not all publications listed be
   (2025) Building and Environment, 113108<br/>
   https://doi.org/10.1016/j.buildenv.2025.113108<br/> 
     
-  - **A dataset exploring urban comfort through novel wearables and environmental surveys.** <br/>
+  - **A dataset exploring urban comfort through novel wearables and environmental surveys** <br/>
   Chwalek, P., Zhong, S., Perry, N., Liu, T., Miller, C., Alavi, H. S., Lalanne, D. & Paradiso, J. A. <br/>
   (2024) Scientific data, 11(1), 1423<br/>
   https://doi.org/10.1016/j.buildenv.2025.113047<br/>
