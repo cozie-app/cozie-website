@@ -13,7 +13,13 @@ The publications listed below use Cozie. Some but not all publications listed be
   <br/>
   <br/>
 -->
-<!-- Add three CISBAT 2025 papers
+<!-- 
+Add three CISBAT 2025 papers
+Add https://doi.org/10.1016/j.cities.2025.106443
+Add Indoor Air 2026 papers:
+ - Wearable-Based Activity Notifications to Reduce Sedentary Behavior and Stabilize Metabolic Rate for Improved Thermal Comfort in ABW Offices
+ - Check: Field Experiment on Behavioral Adaptations for Electricity Self-Sufficiency in a Net Zero Energy House
+ - Check: Effects of Bedroom Thermal Environment and Ventilation on Sleep Quality in Multi-story Apartment during The Summer Season in Japan
 -->
   - **Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)** <br/>
   Miller, C., Chua, Y. X., Quintana, M., Lei, B., Biljecki, F., Frei, M. <br/>
