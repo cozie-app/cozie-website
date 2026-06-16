@@ -33,7 +33,7 @@ Cozie Apple: <br/>
                 <img src="/img/cozie_fitbit_clockface.png" alt="Cozie Fitbit screen" style={{height:200+'px'}}/> 
             </td>
             <td> 
-                <img src="/img/cozie_apple_question.png" alt="Cozie Fitbit screen" style={{height:200+'px'}}/> </td>
+                <img src="/img/cozie_apple_question.png" alt="Cozie Apple screen" style={{height:200+'px'}}/> </td>
         </tr>
         <tr>
             <td> Android phones</td>
