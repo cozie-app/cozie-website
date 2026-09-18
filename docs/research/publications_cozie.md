@@ -21,6 +21,17 @@ Add Indoor Air 2026 papers:
  - Check: Field Experiment on Behavioral Adaptations for Electricity Self-Sufficiency in a Net Zero Energy House
  - Check: Effects of Bedroom Thermal Environment and Ventilation on Sleep Quality in Multi-story Apartment during The Summer Season in Japan
 -->
+
+
+
+
+
+
+  - **Field evaluation of dynamic bedroom air-temperature control for sleep in real homes: implementation fidelity and exploratory sleep outcomes.** <br/>
+  Zhang, W., Chong, A., Zhang, H., Schiavon, S., & Miller, C. <br/>
+  (2026).  Building and Environment, 115100.<br/>
+  https://doi.org/10.1016/j.buildenv.2026.115100<br/>
+
   - **Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)** <br/>
   Miller, C., Chua, Y. X., Quintana, M., Lei, B., Biljecki, F., Frei, M. <br/>
   (2025) Building and Environment, 284, 113388<br/>
