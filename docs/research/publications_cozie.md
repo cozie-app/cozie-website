@@ -21,32 +21,24 @@ The publications listed below use Cozie. Some but not all publications listed be
  - Check: Effects of Bedroom Thermal Environment and Ventilation on Sleep Quality in Multi-story Apartment during The Summer Season in Japan
 -->
 
-
-
-
-
-
-
-
-
-  - **Field evaluation of dynamic bedroom air-temperature control for sleep in real homes: implementation fidelity and exploratory sleep outcomes.** <br/>
+  - **Field evaluation of dynamic bedroom air-temperature control for sleep in real homes: implementation fidelity and exploratory sleep outcomes** <br/>
   Zhang, W., Chong, A., Zhang, H., Schiavon, S., & Miller, C. <br/>
   (2026).  Building and Environment, 115100.<br/>
   https://doi.org/10.1016/j.buildenv.2026.115100<br/>
 
-  - **The Cool, Quiet City machine learning competition: Overview and results.** <br/>
-  Miller, C., Ibrahim, M., Akbar, I. S., Picchetti, B., Chua, Y. X., Frei, M., ... & Fu, C. <br/>
+  - **The Cool, Quiet City machine learning competition: Overview and results** <br/>
+  Miller, C., Ibrahim, M., Akbar, I. S., Picchetti, B., Chua, Y. X., Frei, M., Biljecki, F., Chong, A., Quintana, M. & Fu, C. <br/>
   (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 11, p. 112017). IOP Publishing.<br/>
   https://doi.org/10.1088/1742-6596/3140/11/112017<br/>
 
-  - **Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys.** <br/>
-  Miller, C., Chua, Y. X., Frei, M., Zhang, W., Kyaw, G. M. M., Seah, T. J. X., ... & Schiavon, S.<br/>
+  - **Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys** <br/>
+  Miller, C., Chua, Y. X., Frei, M., Zhang, W., Kyaw, G. M. M., Seah, T. J. X., Fan, X. J., Parkinson, T., Zhang, H., Lo, J. C. & Schiavon, S.<br/>
    (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 7, p. 072005). IOP Publishing.<br/>
   https://doi.org/10.1088/1742-6596/3140/7/072005<br/>
 
-  - **Wrist to Rest: A pilot study to characterize sleep habits and bedroom environments using scalable watch-based microsurveys.** <br/>
-  Miller, C., Chua, Y. X., Frei, M., Zhang, W., Kyaw, G. M. M., Seah, T. J. X., ... & Schiavon, S. <br/>
-  (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 7, p. 072005). IOP Publishing.<br/>
+  - **UTCI vs. human perception: assessing thermal comfort for the aging population.** <br/>
+  You, J., Gottkehaskamp, B. G., Stouffs, R., Frei, M., Wang, D., & Miller, C.  <br/>
+  (2025, November).  In Journal of Physics: Conference Series (Vol. 3140, No. 8, p. 082007). IOP Publishing.<br/>
   https://doi.org/10.1088/1742-6596/3140/19/082007<br/>
 
   - **Make yourself comfortable: Nudging urban heat and noise mitigation with smartwatch-based Just-in-time Adaptive Interventions (JITAI)** <br/>
