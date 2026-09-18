@@ -29,7 +29,8 @@ const sidebars = {
     "Publications": [
       "research/publications-cozie",
       "research/publications-ema",
-      "research/publications-jitai"
+      "research/publications-jitai",
+      "research/publications-wearables"
       ],
 
       
