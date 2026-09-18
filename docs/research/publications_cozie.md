@@ -15,15 +15,11 @@ The publications listed below use Cozie. Some but not all publications listed be
 -->
 <!-- 
 Add three CISBAT 2025 papers
-Add https://doi.org/10.1016/j.cities.2025.106443
 Add Indoor Air 2026 papers:
  - Wearable-Based Activity Notifications to Reduce Sedentary Behavior and Stabilize Metabolic Rate for Improved Thermal Comfort in ABW Offices
  - Check: Field Experiment on Behavioral Adaptations for Electricity Self-Sufficiency in a Net Zero Energy House
  - Check: Effects of Bedroom Thermal Environment and Ventilation on Sleep Quality in Multi-story Apartment during The Summer Season in Japan
 -->
-
-
-
 
 
 
