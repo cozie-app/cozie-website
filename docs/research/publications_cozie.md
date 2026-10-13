@@ -54,7 +54,7 @@ The publications listed below use Cozie. Some but not all publications listed be
   - **A dataset exploring urban comfort through novel wearables and environmental surveys** <br/>
   Chwalek, P., Zhong, S., Perry, N., Liu, T., Miller, C., Alavi, H. S., Lalanne, D. & Paradiso, J. A. <br/>
   (2024) Scientific data, 11(1), 1423<br/>
-  https://doi.org/10.1016/j.buildenv.2025.113047<br/>
+  https://doi.org/10.1038/s41597-024-04279-9<br/>
 
   - **Digital Twin and Wearables Unveiling Pedestrian Comfort Dynamics and Walkability in Cities** <br/>
   Marcel Ignatius, Joie Lim, Ben Gottkehaskamp, Kunihiko Fujiwara, Clayton Miller, Filip Biljecki <br/>
