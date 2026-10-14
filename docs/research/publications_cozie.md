@@ -14,6 +14,8 @@ The publications listed below use Cozie. Some but not all publications listed be
   <br/>
 -->
 <!-- 
+ - Add: Deployment of crowdsourced occupant data to support fault detection and diagnosis in buildings, https://www.sciencedirect.com/science/article/pii/S036013232300639X
+ - Add: Insights into Personalized Thermal Comfort through Innovative Data Collection: case study from HSB Living Lab, https://iopscience.iop.org/article/10.1088/1742-6596/3140/7/072016/meta
  - Add: Cozie Singapore: Scalable Crowdsourced Smartwatch Micro-Surveys to Capture Longitudinal In-Situ Urban Heat and Noise Perception
  - Add Indoor Air 2026 papers:
    - Wearable-Based Activity Notifications to Reduce Sedentary Behavior and Stabilize Metabolic Rate for Improved Thermal Comfort in ABW Offices
